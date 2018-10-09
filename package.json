@@ -1,0 +1,21 @@
+{
+  "name": "ari",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "card-validator": "^5.1.0",
+    "country-list": "^1.1.0",
+    "react": "^16.5.2",
+    "react-credit-card-input": "^1.0.15",
+    "react-credit-cards": "^0.7.0",
+    "react-dom": "^16.5.2",
+    "react-material-ui-form-validator": "^2.0.2",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
